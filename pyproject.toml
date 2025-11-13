@@ -8,4 +8,6 @@ dependencies = [
     "langchain>=1.0.5",
     "langchain-community>=0.4.1",
     "langchain-ollama>=1.0.0",
+    "langchainhub>=0.1.21",
+    "python-dotenv>=1.2.1",
 ]
