@@ -1,0 +1,5 @@
+Summary: Eden Marco, a versatile AI engineer and LLM Specialist in Cloud Computing, is currently working on leveraging their expertise in Python, AWS, and various databases like MongoDB, Elasticsearch, and Neo4j to drive innovation in software development. They are also an accomplished Uberclerk, having contributed to the advancement of machine learning, cloud computing, and functional programming concepts.
+
+Interesting Facts:
+1. Eden has a unique blend of skills, being proficient in both Python and Haskell, which allows them to create innovative solutions for complex problems using their expertise in cloud computing and functional programming.
+2. They are passionate about creating user-friendly interfaces while also mastering the intricacies of graph databases (Neo4j) and graph algorithms, ensuring seamless integration of data across diverse systems. This dual expertise makes them an invaluable asset for companies looking to enhance their online video content and mobile applications.
